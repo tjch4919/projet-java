@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeTableDB>
+  <timeTables>
+    <timeTable>
+      <GroupId>4</GroupId>
+      <Books>
+        <Book>
+          <BookingId>2</BookingId>
+          <Login>GS</Login>
+          <DateEnd>07/04/2016 11:45:00</DateEnd>
+          <DateBegin>07/04/2016 08:15:00</DateBegin>
+          <RoomId>2</RoomId>
+        </Book>
+        <Book>
+          <BookingId>1</BookingId>
+          <Login>MF</Login>
+          <DateEnd>06/04/2016 17:00:00</DateEnd>
+          <DateBegin>06/04/2016 13:00:00</DateBegin>
+          <RoomId>1</RoomId>
+        </Book>
+      </Books>
+    </timeTable>
+    <timeTable>
+      <GroupId>3</GroupId>
+      <Books>
+        <Book>
+          <BookingId>1</BookingId>
+          <Login>MF</Login>
+          <DateEnd>06/04/2016 17:00:00</DateEnd>
+          <DateBegin>06/04/2016 13:00:00</DateBegin>
+          <RoomId>1</RoomId>
+        </Book>
+      </Books>
+    </timeTable>
+    <timeTable>
+      <GroupId>2</GroupId>
+      <Books>
+        <Book>
+          <BookingId>3</BookingId>
+          <Login>MF</Login>
+          <DateEnd>08/04/2016 18:00:00</DateEnd>
+          <DateBegin>08/04/2016 16:00:00</DateBegin>
+          <RoomId>3</RoomId>
+        </Book>
+      </Books>
+    </timeTable>
+    <timeTable>
+      <GroupId>1</GroupId>
+      <Books>
+        <Book>
+          <BookingId>0</BookingId>
+          <Login>GS</Login>
+          <DateEnd>06/04/2016 10:00:00</DateEnd>
+          <DateBegin>06/04/2016 08:00:00</DateBegin>
+          <RoomId>1</RoomId>
+        </Book>
+      </Books>
+    </timeTable>
+  </timeTables>
+  <Rooms>
+    <Room>
+      <RoomId>5</RoomId>
+      <Capacity>90</Capacity>
+    </Room>
+    <Room>
+      <RoomId>1</RoomId>
+      <Capacity>50</Capacity>
+    </Room>
+    <Room>
+      <RoomId>8</RoomId>
+      <Capacity>500</Capacity>
+    </Room>
+    <Room>
+      <RoomId>6</RoomId>
+      <Capacity>100</Capacity>
+    </Room>
+    <Room>
+      <RoomId>4</RoomId>
+      <Capacity>30</Capacity>
+    </Room>
+    <Room>
+      <RoomId>3</RoomId>
+      <Capacity>150</Capacity>
+    </Room>
+  </Rooms>
+</timeTableDB>
